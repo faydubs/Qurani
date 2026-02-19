@@ -1,0 +1,61 @@
+Build beautiful, intelligent web pages and mobile applications effortlessly with our advanced AI platform — designed to create engaging, user-centered digital experiences for meaningful communities.
+
+✨ Project Concept
+
+Al-Rafeeq Al-Qurani is an AI-generated web and app platform designed for a Ramadan Quran Reading Competition. The system encourages users to track their Quran recitation progress and compete in a motivating and spiritually uplifting environment.
+
+⸻
+
+🔐 Smart Registration System
+	•	Simple sign-up process requiring:
+	•	Name
+	•	Password
+	•	Each user’s data is securely stored.
+	•	Login sessions are saved using cookies.
+	•	When users return, they are automatically directed to their reading progress dashboard.
+
+⸻
+
+🏆 Competition Dashboard
+
+The main page features a live competition leaderboard that shows:
+	•	Which participant is leading.
+	•	Real-time updates of progress.
+	•	Ranking based on completed Quran parts (Ajzaa).
+
+This competitive element increases motivation and engagement throughout Ramadan.
+
+⸻
+
+📖 Personal Reading Tracker
+
+Each member has a private profile page where they can:
+	•	Record each Juz (part) they complete.
+	•	Track their progress toward completing all 30 parts of the Quran.
+	•	View their total completions history.
+
+⸻
+
+👑 Completion Rewards System
+	•	When a user completes all 30 parts, they receive:
+	•	🎉 A congratulatory message.
+	•	👑 A crown badge displayed next to their name.
+	•	Every additional full completion (Khatmah) adds another crown.
+	•	The leaderboard proudly displays crowns beside users who have completed the Quran.
+
+⸻
+
+🎨 User Interface & Design
+
+The interface is designed with a calm and spiritual aesthetic:
+	•	Soft, soothing background colors.
+	•	A crescent moon and white stars in the background.
+	•	Subtle glowing and fading animation for stars to create a peaceful Ramadan ambiance.
+	•	Welcome page displays the title:
+“الرفيق القرآني”
+Written beautifully in Arabic calligraphy, large and elegant.
+	•	The landing page includes:
+	•	Register / Login options.
+	•	Upon login, users are directed to:
+	•	Their reading tracker page.
+	•	A competition chart displayed at the top.
